@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1680594038 source:e:\sdlnew\ltnc\game\main.cpp
+	<SDL.h>
+	"Game.h"
+
+1680669207 e:\sdlnew\ltnc\game\include\game.h
+	"SDL.h"
+	<string>
+	<vector>
+
+1680594776 source:e:\sdlnew\ltnc\game\src\thetexturemanager.cpp
+	"TheTextureManager.h"
+	<SDL_image.h>
+	<string>
+
+1680594756 e:\sdlnew\ltnc\game\include\thetexturemanager.h
+	<string>
+	<SDL.h>
+	<map>
+
+1680671780 source:e:\sdlnew\ltnc\game\src\game.cpp
+	"Game.h"
+	"TheTextureManager.h"
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1680631980 source:e:\sdlnew\ltnc\game\src\map.cpp
+	"map.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1680631980 e:\sdlnew\ltnc\game\include\map.h
+	<iostream>
+	<vector>
+	<string>
+
